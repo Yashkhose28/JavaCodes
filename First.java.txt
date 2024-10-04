@@ -4,4 +4,6 @@ public static void main(string[] args);
 
 System.out.println("Hello Everyone.....");
 
+System.out.println("Hello Newline.....");
+
 }
